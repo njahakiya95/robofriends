@@ -1,0 +1,26 @@
+/*Selector {
+	Property: value;
+}*/
+body {
+	background-image: url(background_image.jpg);
+	background-size: cover; 
+}
+h2, p{
+	color: red;
+	text-align: center; 
+	border: 5px solid purple; 
+	cursor: pointer;  
+}
+
+li {
+	list-style: none;
+	display: inline-block; 
+}
+
+.webtext {
+	border: 5px dashed line; 
+}
+
+.active {
+	
+}
