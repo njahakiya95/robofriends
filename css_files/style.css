@@ -6,7 +6,7 @@ body {
 	background-size: cover; 
 }
 h2, p{
-	color: red;
+	color: green;
 	text-align: center; 
 	border: 5px solid purple; 
 	cursor: pointer;  
@@ -18,9 +18,13 @@ li {
 }
 
 .webtext {
-	border: 5px dashed line; 
+	border: 5px dashed green; 
 }
 
 .active {
-	
+	color: red;
+}
+
+#div {
+	background: rgba(0,0,255,0.2);
 }
